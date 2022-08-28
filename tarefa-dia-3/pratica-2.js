@@ -1,4 +1,4 @@
-let n = 9
+const n = 9
 let i = 1
 
 while(i <= 10){
